@@ -4,7 +4,7 @@ Stylized is the most effective way to create a lightweight, beautiful and simple
 
 ## Participating in the community
 
-🫂 We aim to create a welcoming and inclusive community. Please note that Twitter's open source projects are governed by our [code of conduct](https://github.com/stylizedcss/.github/blob/main/code-of-conduct.md).
+🫂 We aim to create a welcoming and inclusive community. Please note that Stylized open source projects are governed by our [code of conduct](https://github.com/stylizedcss/.github/blob/main/code-of-conduct.md).
 
 ## Get in touch!
 
