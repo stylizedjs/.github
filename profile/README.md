@@ -1,5 +1,6 @@
-<img src="./banner.png">
-
+<a href="https://stylized.dev">
+  <img src="./banner.png">
+</a>
 Stylized is the most effective way to create a lightweight, beautiful and simple design.
 
 ## Participating in the community
