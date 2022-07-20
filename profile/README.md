@@ -10,4 +10,4 @@ Stylized is the most effective way to create a lightweight, beautiful and simple
 ## Get in touch!
 
 Learn more about what we're doing with the project in the [main repository](https://github.com/stylizedcss/stylized).
-Want to stay update about new releases? Follow us on Twitter [@StylizedCSS](https://twitter.com/stylizedcss)!
+Want to stay update about new releases? Follow us on Twitter [@StylizedJS](https://twitter.com/stylizedjs)!
